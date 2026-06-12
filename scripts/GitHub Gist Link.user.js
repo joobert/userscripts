@@ -6,8 +6,8 @@
 // @author       afkarxyz, joobert
 // @namespace    https://github.com/joobert/userscripts/
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Gist%20Link.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Gist%20Link.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Gist%20Link.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Gist%20Link.user.js
 // @license      MIT
 // @match        https://github.com/*
 // @exclude      https://gist.github.com/*

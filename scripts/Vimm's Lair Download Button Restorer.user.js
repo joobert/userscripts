@@ -5,8 +5,8 @@
 // @description  Restores the missing download button on supported Vimm's Lair Vault pages.
 // @author       joobert
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Vimm%27s%20Lair%20Download%20Button%20Restorer.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Vimm%27s%20Lair%20Download%20Button%20Restorer.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Vimm%27s%20Lair%20Download%20Button%20Restorer.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Vimm%27s%20Lair%20Download%20Button%20Restorer.user.js
 // @match        https://vimm.net/vault/*
 // @grant        none
 // @run-at       document-idle

@@ -5,8 +5,8 @@
 // @author       j00bert
 // @description  Removes the FightPlanner 1-Click Install button from GameBanana SSBU mod pages.
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GameBanana%20SSBU%20Install%20Button%20Remover.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GameBanana%20SSBU%20Install%20Button%20Remover.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GameBanana%20SSBU%20Install%20Button%20Remover.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GameBanana%20SSBU%20Install%20Button%20Remover.user.js
 // @match        *://*.gamebanana.com/*
 // @run-at       document-idle
 // @grant        none

@@ -4,8 +4,8 @@
 // @namespace    https://spotubedl.com/
 // @supportURL   https://spotubedl.com/
 // @homepageURL  https://spotubedl.com/
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/SpotubeDL%20-%20Awesome%20Spotify%20Downloader.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/SpotubeDL%20-%20Awesome%20Spotify%20Downloader.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/SpotubeDL%20-%20Awesome%20Spotify%20Downloader.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/SpotubeDL%20-%20Awesome%20Spotify%20Downloader.user.js
 // @version      1.5
 // @author       afkarxyz, joobert
 // @match        *://open.spotify.com/*

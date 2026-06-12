@@ -5,8 +5,8 @@
 // @version      5.1.0
 // @author       Risk & j00bert (All logic by Risk, UI modified by j00bert)
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Sketchfab%20Model%20Ripper.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Sketchfab%20Model%20Ripper.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Sketchfab%20Model%20Ripper.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Sketchfab%20Model%20Ripper.user.js
 // @include      /^https?://(www\.)?sketchfab\.com/.*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jszip-utils/0.0.2/jszip-utils.min.js
@@ -120,24 +120,24 @@ var addbtnfunc
       uv: attr.TexCoord0
         ? attr.TexCoord0._elements
         : attr.TexCoord1
-        ? attr.TexCoord1._elements
-        : attr.TexCoord2
-        ? attr.TexCoord2._elements
-        : attr.TexCoord2
-        ? attr.TexCoord2._elements
-        : attr.TexCoord3
-        ? attr.TexCoord3._elements
-        : attr.TexCoord4
-        ? attr.TexCoord4._elements
-        : attr.TexCoord5
-        ? attr.TexCoord5._elements
-        : attr.TexCoord6
-        ? attr.TexCoord6._elements
-        : attr.TexCoord7
-        ? attr.TexCoord7._elements
-        : attr.TexCoord8
-        ? attr.TexCoord8._elements
-        : [],
+          ? attr.TexCoord1._elements
+          : attr.TexCoord2
+            ? attr.TexCoord2._elements
+            : attr.TexCoord2
+              ? attr.TexCoord2._elements
+              : attr.TexCoord3
+                ? attr.TexCoord3._elements
+                : attr.TexCoord4
+                  ? attr.TexCoord4._elements
+                  : attr.TexCoord5
+                    ? attr.TexCoord5._elements
+                    : attr.TexCoord6
+                      ? attr.TexCoord6._elements
+                      : attr.TexCoord7
+                        ? attr.TexCoord7._elements
+                        : attr.TexCoord8
+                          ? attr.TexCoord8._elements
+                          : [],
       primitives: list,
     }
   }

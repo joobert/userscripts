@@ -52,7 +52,7 @@ Install a userscript manager such as [Tampermonkey](https://www.tampermonkey.net
 
 Adds a button for downloading fonts from Adobe Fonts.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Adobe%20Fonts%20Downloader.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Adobe%20Fonts%20Downloader.user.js)
 
 ![Adobe Fonts Downloader](assets/img/adobe-fonts-downloader.png)
 
@@ -60,7 +60,7 @@ Adds a button for downloading fonts from Adobe Fonts.
 
 Automatically decrypts and displays links from Filecrypt containers.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Filecrypt%20Unlocker.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Filecrypt%20Unlocker.user.js)
 
 ![Filecrypt Unlocker](assets/img/filecrypt-unlocker.png)
 
@@ -68,7 +68,7 @@ Automatically decrypts and displays links from Filecrypt containers.
 
 Adds download and copy buttons for Font Awesome Pro icons.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Font%20Awesome%20Pro%20Downloader.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Font%20Awesome%20Pro%20Downloader.user.js)
 
 ![Font Awesome Pro Downloader](assets/img/font-awesome-pro-downloader.png)
 
@@ -76,7 +76,7 @@ Adds download and copy buttons for Font Awesome Pro icons.
 
 Removes the FightPlanner 1-Click Install button from GameBanana SSBU mod pages while leaving standard download options intact.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GameBanana%20SSBU%20Install%20Button%20Remover.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GameBanana%20SSBU%20Install%20Button%20Remover.user.js)
 
 ![GameBanana SSBU Install Button Remover](assets/img/gamebanana-ssbu-button-remover.png)
 
@@ -84,7 +84,7 @@ Removes the FightPlanner 1-Click Install button from GameBanana SSBU mod pages w
 
 Adds a model download control to Sketchfab viewers and packages captured geometry and original-quality textures together as a single ZIP archive.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Sketchfab%20Model%20Ripper.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Sketchfab%20Model%20Ripper.user.js)
 
 ![Sketchfab Model Ripper](assets/img/sketchfab-model-ripper.png)
 
@@ -92,7 +92,7 @@ Adds a model download control to Sketchfab viewers and packages captured geometr
 
 Adds download controls to Spotify for saving tracks, albums, and playlists through SpotubeDL in MP3, OGG, or Opus formats.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/SpotubeDL%20-%20Awesome%20Spotify%20Downloader.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/SpotubeDL%20-%20Awesome%20Spotify%20Downloader.user.js)
 
 ![Spotify Added Buttons](assets/img/spotube-dl-1.png)
 
@@ -102,7 +102,7 @@ Adds download controls to Spotify for saving tracks, albums, and playlists throu
 
 Adds CGDownload and GFXCamp buttons for downloading items from Superhivemarket.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Superhivemarket%20Downloader.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Superhivemarket%20Downloader.user.js)
 
 ![Superhivemarket Downloader](assets/img/superhivemarket-downloader.png)
 
@@ -110,7 +110,7 @@ Adds CGDownload and GFXCamp buttons for downloading items from Superhivemarket.
 
 Batch-downloads original-quality images and videos from X/Twitter accounts, including withheld accounts.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Twitter_X%20Media%20Batch%20Downloader.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Twitter_X%20Media%20Batch%20Downloader.user.js)
 
 ![Twitter/X Media Batch Downloader](assets/img/twitter-x-media-batch-downloader.png)
 
@@ -118,7 +118,7 @@ Batch-downloads original-quality images and videos from X/Twitter accounts, incl
 
 Restores the missing download button on supported Vimm's Lair Vault pages.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Vimm%27s%20Lair%20Download%20Button%20Restorer.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Vimm%27s%20Lair%20Download%20Button%20Restorer.user.js)
 
 ![Vimm's Lair](assets/img/vimms-lair.png)
 
@@ -126,7 +126,7 @@ Restores the missing download button on supported Vimm's Lair Vault pages.
 
 Adds a **Download** button to YouTube for saving video or audio directly from the page. Supports watch pages, Shorts, and bulk downloads from a selected channel.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/YouTube%20Direct%20Downloader.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/YouTube%20Direct%20Downloader.user.js)
 
 #### Watch Page
 
@@ -146,7 +146,7 @@ Adds a **Download** button to YouTube for saving video or audio directly from th
 
 Automatically reloads YouTube watch pages when the player reports that content is unavailable. Includes cooldown and reload limits to avoid refresh loops.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/YouTube%20Error%20Auto-Refresh.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/YouTube%20Error%20Auto-Refresh.user.js)
 
 ![YouTube Error Refresh](assets/img/youtube-error-refresh.png)
 
@@ -162,7 +162,7 @@ Automatically reloads YouTube watch pages when the player reports that content i
 
 Replaces GitHub's plain code-language dots with Material Design Icons.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Code%20Language%20Icons.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Code%20Language%20Icons.user.js)
 
 Icons are based on the [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme).
 
@@ -174,7 +174,7 @@ Icons are based on the [Material Icon Theme](https://github.com/material-extensi
 
 Adds controls for downloading individual files directly from GitHub repository pages.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20File%20Downloader.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20File%20Downloader.user.js)
 
 ![GitHub File Downloader](assets/img/github-file-downloader.png)
 
@@ -182,7 +182,7 @@ Adds controls for downloading individual files directly from GitHub repository p
 
 Adds controls for downloading individual subfolders from GitHub repository pages.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Folder%20Downloader.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Folder%20Downloader.user.js)
 
 ![GitHub Folder Downloader](assets/img/github-folder-downloader.png)
 
@@ -190,7 +190,7 @@ Adds controls for downloading individual subfolders from GitHub repository pages
 
 Previews JPG, PNG, GIF, BMP, TIFF, WebP, SVG, and ICO files directly on GitHub.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Image%20Previewer.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Image%20Previewer.user.js)
 
 ![GitHub Image Previewer](assets/img/github-image-previewer.png)
 
@@ -198,7 +198,7 @@ Previews JPG, PNG, GIF, BMP, TIFF, WebP, SVG, and ICO files directly on GitHub.
 
 Adds a **Preview** button to repositories for opening them in [github1s.com](https://github1s.com/) with an IDE-style interface.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20IDE%20Preview.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20IDE%20Preview.user.js)
 
 ![GitHub IDE Preview button](assets/img/github-ide-preview-1.png)
 
@@ -208,7 +208,7 @@ Adds a **Preview** button to repositories for opening them in [github1s.com](htt
 
 Adds a clickable icon that identifies whether a profile belongs to a person or an organization.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Profile%20Icon.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Profile%20Icon.user.js)
 
 ![GitHub Profile Icon](assets/img/github-profile-icon.png)
 
@@ -216,7 +216,7 @@ Adds a clickable icon that identifies whether a profile belongs to a person or a
 
 Adds a direct Gist link to GitHub profile pages.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Gist%20Link.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Gist%20Link.user.js)
 
 ![GitHub Gist Link](assets/img/github-gist-link.png)
 
@@ -224,7 +224,7 @@ Adds a direct Gist link to GitHub profile pages.
 
 Adds a copy button to Gist files for quick code copying.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Gist%20Copier.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Gist%20Copier.user.js)
 
 ![GitHub Gist Copier](assets/img/github-gist-copier.png)
 
@@ -232,7 +232,7 @@ Adds a copy button to Gist files for quick code copying.
 
 Displays a user's account creation date, time, and age.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Join%20Date.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Join%20Date.user.js)
 
 ![GitHub Join Date](assets/img/github-join-date.png)
 
@@ -240,7 +240,7 @@ Displays a user's account creation date, time, and age.
 
 Displays the most-used programming languages on user and organization profiles.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Top%20Languages.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Top%20Languages.user.js)
 
 #### User Profile
 
@@ -254,7 +254,7 @@ Displays the most-used programming languages on user and organization profiles.
 
 Displays a repository's creation date, time, and age.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Repo%20Age.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Repo%20Age.user.js)
 
 ![GitHub Repo Age](assets/img/github-repo-age.png)
 
@@ -262,7 +262,7 @@ Displays a repository's creation date, time, and age.
 
 Downloads individual changed files or all changed files as a ZIP directly from commit pages.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Commit%20File%20Downloader.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Commit%20File%20Downloader.user.js)
 
 ![GitHub Commit File Downloader](assets/img/github-commit-file-downloader.png)
 
@@ -270,7 +270,7 @@ Downloads individual changed files or all changed files as a ZIP directly from c
 
 Displays repository sizes directly on GitHub.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Repo%20Size.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Repo%20Size.user.js)
 
 ![GitHub Repo Size](assets/img/github-repo-size.png)
 
@@ -278,7 +278,7 @@ Displays repository sizes directly on GitHub.
 
 Displays the total download count across a repository's releases.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Release%20Downloads.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Release%20Downloads.user.js)
 
 ![GitHub Release Downloads](assets/img/github-release-downloads.png)
 
@@ -294,7 +294,7 @@ Displays the total download count across a repository's releases.
 
 Displays total scripts, installs, and version counts for users on Greasy Fork and Sleazy Fork.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Greasy%20Fork%20Stats.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Greasy%20Fork%20Stats.user.js)
 
 ![Greasy Fork Stats](assets/img/greasyfork-stats.png)
 
@@ -302,7 +302,7 @@ Displays total scripts, installs, and version counts for users on Greasy Fork an
 
 Displays today's script installations and update checks.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Greasy%20Fork%20Update%20Checks.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Greasy%20Fork%20Update%20Checks.user.js)
 
 ![Greasy Fork Update Checks](assets/img/greasyfork-update-checks.png)
 
@@ -310,7 +310,7 @@ Displays today's script installations and update checks.
 
 Displays each script's favicon in Greasy Fork and Sleazy Fork listings.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Greasy%20Fork%20Script%20Icon.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Greasy%20Fork%20Script%20Icon.user.js)
 
 ![Greasy Fork Script Icon](assets/img/greasyfork-script-icon.png)
 
@@ -318,7 +318,7 @@ Displays each script's favicon in Greasy Fork and Sleazy Fork listings.
 
 Adds a copy button to script code pages.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Greasy%20Fork%20Code%20Copier.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Greasy%20Fork%20Code%20Copier.user.js)
 
 ![Greasy Fork Code Copier](assets/img/greasyfork-code-copier.png)
 
@@ -326,7 +326,7 @@ Adds a copy button to script code pages.
 
 Disables dark mode on Greasy Fork and Sleazy Fork.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Greasy%20Fork%20No%20Dark%20Mode.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Greasy%20Fork%20No%20Dark%20Mode.user.js)
 
 ![Greasy Fork No Dark Mode](assets/img/greasyfork-no-dark-mode.png)
 
@@ -334,4 +334,4 @@ Disables dark mode on Greasy Fork and Sleazy Fork.
 
 Adds a button to Greasy Fork user profiles for downloading every listed userscript and userstyle in a single ZIP archive, including scripts across paginated profile pages.
 
-[![Install userscript](assets/readme/install-userscript.svg)](https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Greasy%20Fork%20User%20Profile%20ZIP%20Downloader.user.js)
+[![Install userscript](assets/readme/install-userscript.svg)](https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Greasy%20Fork%20User%20Profile%20ZIP%20Downloader.user.js)

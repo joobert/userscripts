@@ -6,8 +6,8 @@
 // @author       afkarxyz, joobert
 // @namespace    https://github.com/joobert/userscripts/
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Adobe%20Fonts%20Downloader.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Adobe%20Fonts%20Downloader.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Adobe%20Fonts%20Downloader.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Adobe%20Fonts%20Downloader.user.js
 // @license      MIT
 // @match        https://fonts.adobe.com/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js

@@ -6,8 +6,8 @@
 // @author       afkarxyz, joobert
 // @namespace    https://github.com/joobert/userscripts/
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Filecrypt%20Unlocker.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Filecrypt%20Unlocker.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Filecrypt%20Unlocker.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Filecrypt%20Unlocker.user.js
 // @license      MIT
 // @match        https://*.filecrypt.cc/Container/*
 // @match        https://*.filecrypt.to/Container/*

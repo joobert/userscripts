@@ -6,8 +6,8 @@
 // @author       afkarxyz, joobert
 // @namespace    https://github.com/joobert/userscripts/
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Gist%20Copier.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Gist%20Copier.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Gist%20Copier.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Gist%20Copier.user.js
 // @license      MIT
 // @run-at       document-end
 // @match        https://gist.github.com/*

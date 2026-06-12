@@ -6,8 +6,8 @@
 // @author       afkarxyz, joobert
 // @namespace    https://github.com/joobert/userscripts/
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Greasy%20Fork%20Stats.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Greasy%20Fork%20Stats.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Greasy%20Fork%20Stats.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Greasy%20Fork%20Stats.user.js
 // @license      MIT
 // @match        https://greasyfork.org/*/users/*
 // @match        https://greasyfork.org/users/*

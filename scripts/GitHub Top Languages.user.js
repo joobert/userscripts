@@ -6,8 +6,8 @@
 // @author       afkarxyz, joobert
 // @namespace    https://github.com/joobert/userscripts/
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Top%20Languages.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Top%20Languages.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Top%20Languages.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Top%20Languages.user.js
 // @license      MIT
 // @match        https://github.com/*
 // @grant        none
@@ -72,7 +72,7 @@
   }
 
   const COLORS_URL =
-    'https://raw.githubusercontent.com/joobert/userscripts/refs/heads/main/assets/github/colors.json'
+    'https://github.com/joobert/userscripts/raw/refs/heads/refs/heads/main/assets/github/colors.json'
   let lastUsername = null
 
   async function getLanguageColors() {

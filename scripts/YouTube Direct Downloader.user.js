@@ -6,8 +6,8 @@
 // @author       afkarxyz, joobert
 // @namespace    https://github.com/joobert/userscripts/
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/YouTube%20Direct%20Downloader.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/YouTube%20Direct%20Downloader.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/YouTube%20Direct%20Downloader.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/YouTube%20Direct%20Downloader.user.js
 // @license      MIT
 // @match        https://www.youtube.com/*
 // @match        https://youtube.com/*

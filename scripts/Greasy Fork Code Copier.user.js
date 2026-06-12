@@ -6,8 +6,8 @@
 // @author       afkarxyz, joobert
 // @namespace    https://github.com/joobert/userscripts/
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Greasy%20Fork%20Code%20Copier.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/Greasy%20Fork%20Code%20Copier.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Greasy%20Fork%20Code%20Copier.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/Greasy%20Fork%20Code%20Copier.user.js
 // @license      MIT
 // @match        https://greasyfork.org/*/scripts/*
 // @match        https://sleazyfork.org/*/scripts/*

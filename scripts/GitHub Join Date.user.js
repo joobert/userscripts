@@ -6,8 +6,8 @@
 // @author       afkarxyz, joobert
 // @namespace    https://github.com/joobert/userscripts/
 // @supportURL   https://github.com/joobert/userscripts/issues
-// @downloadURL  https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Join%20Date.user.js
-// @updateURL    https://raw.githubusercontent.com/joobert/userscripts/main/scripts/GitHub%20Join%20Date.user.js
+// @downloadURL  https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Join%20Date.user.js
+// @updateURL    https://github.com/joobert/userscripts/raw/refs/heads/main/scripts/GitHub%20Join%20Date.user.js
 // @license      MIT
 // @match        https://github.com/*
 // @grant        GM_xmlhttpRequest
