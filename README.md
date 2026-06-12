@@ -96,7 +96,7 @@ Adds download controls to Spotify for saving tracks, albums, and playlists throu
 
 ![Spotify Added Buttons](assets/img/spotube-dl-1.png)
 
-![SpotubeDL UI](assets/img/spotube-dl-1.png)
+![SpotubeDL UI](assets/img/spotube-dl-2.png)
 
 #### Superhivemarket Downloader
 
